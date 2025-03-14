@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 💻 **Professional Background**   
-
 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
 
