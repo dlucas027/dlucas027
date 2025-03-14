@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
   
-## 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
+### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
 
 ### **📌 About Me**  
