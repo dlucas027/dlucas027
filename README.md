@@ -3,6 +3,9 @@
 
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/delucas027&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=delucas027&color=blue)
+
+
   
 ### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
