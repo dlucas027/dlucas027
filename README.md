@@ -1,7 +1,5 @@
 <h1 align="center">Matheus de Lucas A.</h1>
 <h2 align="center">Software Developer</h2>
-
-![Visitors](https://img.shields.io/static/v1?label=visitors&message=some_value&color=blue&style=flat)
   
 ### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
