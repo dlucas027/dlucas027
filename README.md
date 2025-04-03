@@ -5,6 +5,7 @@
 ---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### **📌 About Me**  
 I am a results-driven professional with a focus on continuous growth through practical and collaborative projects.  
 I began my career in the computer networks field as a support technician, progressed to a junior network analyst, and eventually transitioned into development, leveraging my background in networks.
