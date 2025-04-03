@@ -4,7 +4,7 @@
 ### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
 
-<img src="https://raw.githubusercontent.com/dlucas027/dlucas027/main/imagens/minha_ilustracao.png" width="400px" align="right" alt="Ilustração personalizada"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### **📌 About Me**  
 I am a results-driven professional with a focus on continuous growth through practical and collaborative projects.  
